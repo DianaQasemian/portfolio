@@ -110,6 +110,8 @@ export const projects: ProjectItem[] = [
     description:
       'Designed a custom local business directory without a pre-built theme, with live PHP/AJAX search.',
     tags: ['WordPress', 'JavaScript', 'PHP'],
+    url: 'https://behtarinakojast.toprankdm.ir/',
+    urlLabel: 'behtarinakojast.ir',
   },
   {
     title: 'Phototherapy Equipment Rental',
